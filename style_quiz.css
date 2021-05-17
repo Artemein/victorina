@@ -1,0 +1,13 @@
+body {
+  color: #000000
+}
+p {
+  color:gray ;
+  font-size:40px;
+}
+.title {
+  font-size: medium;
+  color: aquamarine;
+  font-style: initial;
+  transform: rotateX(30);
+}
